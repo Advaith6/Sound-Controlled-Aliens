@@ -1,0 +1,42 @@
+body {
+  font-family: "Praise", cursive;
+  background: deepskyblue;
+}
+
+.header_div {
+  background: black;
+  color: deepskyblue;
+}
+
+.header_div p {
+  font-family: "Playfair Display", serif;
+  color: deepskyblue;
+  letter-spacing: 2px;
+  font-size: 12px;
+  font-weight: bolder;
+}
+
+.main_div button {
+  font-family: "PT Sans Narrow", sans-serif;
+  margin-top: 30px;
+  width: 130px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+.copy_right_footer {
+  position: fixed;
+  color: deepskyblue;
+  bottom: 0;
+  width: 100%;
+  font-size: 23px;
+  background-color: black;
+  line-height: 3;
+  text-align: center;
+  text-shadow: 2px 2px 2px black;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+}
